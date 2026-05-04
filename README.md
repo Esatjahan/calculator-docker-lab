@@ -1,6 +1,6 @@
 # Calculator Docker Lab
 
-A multi-container Docker application for Lab 3.
+A multi-container Docker application for Lab 3.....
 
 This project demonstrates how to build and run a simple calculator web application using Node.js and MongoDB with Docker Compose.
 
